@@ -1,1 +1,1 @@
-# events-in-js-demo
+# browser events-in-js-demo
